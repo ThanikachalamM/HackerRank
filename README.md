@@ -1,0 +1,2 @@
+# HackerRank
+Python Average Function
